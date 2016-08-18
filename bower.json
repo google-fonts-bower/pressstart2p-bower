@@ -1,0 +1,17 @@
+{
+    "name": "pressstart2p-googlefont",
+    "license": "OFL",
+    "authors": [
+        "CodeMan38"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/pressstart2p-bower.git"
+    },
+    "description": "Press Start 2P font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
